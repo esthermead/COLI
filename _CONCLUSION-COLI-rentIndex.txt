@@ -1,0 +1,18 @@
+_CONCLUSION-COLI-rentIndex
+
+what, testvalue1, testvalue2, truevalue1, truevalue2, 
+	alpha, iterations, predictedvalue1, predictedvalue2.
+
+
+
+COLI_stdscaler_both_features_rentIndex.txt, 0.002848155, 0.196708786, -0.410795354, 1.46247283,
+	0.003, 2000, -0.010933, -0.044212.
+	0.05, 1000, -0.010960, -0.044330.
+
+
+OVERALL CONCLUSION:
+model works (without errors), but does not predict correctly.
+
+
+
+see "COLI (Cost Of Living Index).ipynb
